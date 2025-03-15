@@ -131,3 +131,4 @@
 /Users/amysessions/RiderProjects/Mission10_Sessions/backend/Mission10_Sessions/Mission10_Sessions/obj/Debug/net8.0/Mission10_Sessions.pdb
 /Users/amysessions/RiderProjects/Mission10_Sessions/backend/Mission10_Sessions/Mission10_Sessions/obj/Debug/net8.0/Mission10_Sessions.genruntimeconfig.cache
 /Users/amysessions/RiderProjects/Mission10_Sessions/backend/Mission10_Sessions/Mission10_Sessions/obj/Debug/net8.0/ref/Mission10_Sessions.dll
+/Users/amysessions/RiderProjects/Mission10_Sessions/backend/Mission10_Sessions/Mission10_Sessions/obj/Debug/net8.0/Mission10_Sessions.sourcelink.json
