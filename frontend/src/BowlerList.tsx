@@ -6,17 +6,16 @@ function BowlerList() {
 
   useEffect(() => {
     const fetchBowler = async () => {
-      const response = await fetch('https://localhost:4000/BowlingLeague');
+      const response = await fetch('https://localhost:5001/api/Bowlers');
       const data = await response.json();
       setBowlers(data);
     };
     fetchBowler();
   }, []);
 
-  
   return (
     <>
-      <h1>Bowlers</h1>
+      <h1>Bowler Information</h1>
       <table>
         <thead>
           <tr>
@@ -46,8 +45,6 @@ function BowlerList() {
       </table>
     </>
   );
-  
 }
-
 
 export default BowlerList;
